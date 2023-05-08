@@ -1,0 +1,5 @@
+bin
+obj
+Properties
+/UPSRestApi.Test/appsettings.json
+.vs
